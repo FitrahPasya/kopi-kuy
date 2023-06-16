@@ -1,0 +1,66 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "roti": [
+        {
+            "foto": "https://img.freepik.com/free-photo/croissants-wooden-cutting-board_1150-28480.jpg?size=626&ext=jpg&ga=GA1.2.447489581.1686537608&semt=sph",
+            "nama": "Croissant",
+            "size": "2 pcs",
+            "harga": "45.000",
+            "link": "https://www.google.com/search?q=Croissant&tbm=shop"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/concept-tasty-bakery-bagels-isolated-white-background_185193-109385.jpg?w=996&t=st=1686804440~exp=1686805040~hmac=63ce5d49622847da1eead91ecb961da8d6f864fa4c77e9fb220a5575ffc93ff6",
+            "nama": "Bagel",
+            "size": "2 pcs",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?sxsrf=APwXEde7aMWZgajMgL2kCw9Yy-uDHvfWng:1686804384338&q=Bagel&tbm=shop"
+        }
+    ],
+    "desert": [
+        {
+            "foto": "https://img.freepik.com/premium-photo/strawberry-ice-cream-waffle-cone-with-sprinkle-from-multicolored-balls_271825-45.jpg?w=740",
+            "nama": "Ice Cream Strawberry",
+            "size": "1 pcs",
+            "harga": "13.000",
+            "link": "https://www.google.com/search?sxsrf=APwXEdc7I32dd351Zq6fJfdEZp5bSIT02Q:1686831586911&q=ice+cream&tbm=shop"
+        }
+    ]
+}
