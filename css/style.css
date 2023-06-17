@@ -481,4 +481,5 @@ footer .navigasi {
 .card img {
    height: 250px;
    object-fit: cover;
+   width: auto;
 }
