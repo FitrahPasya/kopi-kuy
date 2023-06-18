@@ -19,8 +19,7 @@
         }
 
         .bg-coklat {
-            background-color: #8c5410cf;
-            ;
+            background-color: rgba(190, 95, 36, 0.93);
         }
 
         .nav-item {
@@ -36,6 +35,21 @@
         body {
             background-image: url(https://rikikurnia.com/assets/bgkopi.png);
             background-size: 20%;
+        }
+
+        .card img {
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .btn,
+        .btn-success {
+            background-color: #C38154;
+        }
+
+        .border,
+        .border-success {
+            color: #884A39;
         }
     </style>
     <script src="js/jquery-3.6.3.min.js"></script>
@@ -79,16 +93,15 @@
     </nav>
     <section class="produk mt-5 pt-5 text-center">
         <div class="container">
-            <h1>Pilih Menu</h1>
-            <p>Menu Andalan Kami</p>
-            <hr class="border border-success border-3 opacity-75">
+            <h1>Pilih Menu Anda</h1>
+            <hr class="border border-success border-2 opacity-75">
             <div class="form-floating col-md-4 m-auto">
                 <select class="form-select" id="select_kopi">
                     <option selected disabled>-</option>
-                    <option value="arabica">Arabica</option>
-                    <option value="robusta">Robusta</option>
-                    <option value="roti">Roti</option>
-                    <option value="desert">Desert</option>
+                    <option value="arabica">Coffee</option>
+                    <option value="robusta">Dish</option>
+                    <option value="roti">Bread</option>
+                    <option value="desert">Dessert </option>
                 </select>
                 <label for="select_kopi">Pilih Menu</label>
             </div>
@@ -101,7 +114,7 @@
                             <h5 class="card-title">Cappuccino</h5>
                             <div class="row keterangan my-4">
                                 <div class="col">
-                                    100 Gram
+                                    250 ml
                                 </div>
                                 <div class="col">
                                     24.000
@@ -113,12 +126,13 @@
                 </div>
                 <div class="col mb-4">
                     <div class="card">
-                        <img src="images/produk/product_espresso.jpg" class="card-img-top" alt="...">
+                        <img src="https://images.pexels.com/photos/6207309/pexels-photo-6207309.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Espresso</h5>
+                            <h5 class="card-title">Americano</h5>
                             <div class="row keterangan my-4">
                                 <div class="col">
-                                    90 Gram
+                                    250 ml
                                 </div>
                                 <div class="col">
                                     25.000
@@ -135,44 +149,10 @@
                             <h5 class="card-title">Kopi Susu</h5>
                             <div class="row keterangan my-4">
                                 <div class="col">
-                                    100 Gram
+                                    250 ml
                                 </div>
                                 <div class="col">
                                     25.000
-                                </div>
-                            </div>
-                            <a href="#" class="btn btn-success w-100">Beli</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col mb-4">
-                    <div class="card">
-                        <img src="images/produk/product_capuchino.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Cappuccino</h5>
-                            <div class="row keterangan my-4">
-                                <div class="col">
-                                    100 Gram
-                                </div>
-                                <div class="col">
-                                    24.000
-                                </div>
-                            </div>
-                            <a href="#" class="btn btn-success w-100">Beli</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col mb-4">
-                    <div class="card">
-                        <img src="images/produk/product_capuchino.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Cappuccino</h5>
-                            <div class="row keterangan my-4">
-                                <div class="col">
-                                    100 Gram
-                                </div>
-                                <div class="col">
-                                    24.000
                                 </div>
                             </div>
                             <a href="#" class="btn btn-success w-100">Beli</a>
@@ -186,41 +166,7 @@
                             <h5 class="card-title">Latte</h5>
                             <div class="row keterangan my-4">
                                 <div class="col">
-                                    100 Gram
-                                </div>
-                                <div class="col">
-                                    24.000
-                                </div>
-                            </div>
-                            <a href="#" class="btn btn-success w-100">Beli</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col mb-4">
-                    <div class="card">
-                        <img src="images/produk/product_capuchino.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Cappuccino</h5>
-                            <div class="row keterangan my-4">
-                                <div class="col">
-                                    100 Gram
-                                </div>
-                                <div class="col">
-                                    24.000
-                                </div>
-                            </div>
-                            <a href="#" class="btn btn-success w-100">Beli</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col mb-4">
-                    <div class="card">
-                        <img src="images/produk/product_capuchino.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Cappuccino</h5>
-                            <div class="row keterangan my-4">
-                                <div class="col">
-                                    100 Gram
+                                    250 ml
                                 </div>
                                 <div class="col">
                                     24.000
@@ -231,8 +177,6 @@
                     </div>
                 </div>
             </div>
-
-        </div>
 
 
     </section>

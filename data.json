@@ -15,14 +15,12 @@
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
+            "foto": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "nama": "Latte Arabica",
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
-        }
-    ],
-    "robusta": [
+        },
         {
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
@@ -35,6 +33,22 @@
             "nama": "Latte Robusta",
             "size": "150 Gram",
             "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Salad",
+            "size": "1 Porsi",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/2092906/pexels-photo-2092906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Mie Goreng Seafood",
+            "size": "1 Porsi",
+            "harga": "30.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
     ],
@@ -61,6 +75,20 @@
             "size": "1 pcs",
             "harga": "13.000",
             "link": "https://www.google.com/search?sxsrf=APwXEdc7I32dd351Zq6fJfdEZp5bSIT02Q:1686831586911&q=ice+cream&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/1055271/pexels-photo-1055271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Cupcake",
+            "size": "2 pcs",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/1098592/pexels-photo-1098592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Cheese Cake",
+            "size": "1 pcs",
+            "harga": "14.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
     ]
 }
