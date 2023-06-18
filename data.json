@@ -42,14 +42,14 @@
             "nama": "Salad",
             "size": "1 Porsi",
             "harga": "20.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+            "link": "https://www.google.com/search?q=salad&sa=X&biw=1536&bih=714&tbm=shop"
         },
         {
             "foto": "https://images.pexels.com/photos/2092906/pexels-photo-2092906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "nama": "Mie Goreng Seafood",
             "size": "1 Porsi",
             "harga": "30.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+            "link": "https://www.google.com/search?q=mie+goreng+seafood&sa=X&biw=1536&bih=714&tbm=shop"
         }
     ],
     "roti": [
@@ -65,7 +65,7 @@
             "nama": "Bagel",
             "size": "2 pcs",
             "harga": "30.000",
-            "link": "https://www.google.com/search?sxsrf=APwXEde7aMWZgajMgL2kCw9Yy-uDHvfWng:1686804384338&q=Bagel&tbm=shop"
+            "link": "https://www.google.com/search?q=roti+bagel&sa=X&biw=1536&bih=714&tbm=shop"
         }
     ],
     "desert": [
@@ -81,14 +81,14 @@
             "nama": "Cupcake",
             "size": "2 pcs",
             "harga": "25.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+            "link": "https://www.google.com/search?sxsrf=APwXEdeJYl9obewHKGgYSgitu_71fy7kLg:1687076117310&q=cupcake&tbm=shop"
         },
         {
             "foto": "https://images.pexels.com/photos/1098592/pexels-photo-1098592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "nama": "Cheese Cake",
             "size": "1 pcs",
             "harga": "14.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+            "link": "https://www.google.com/search?sxsrf=APwXEdcam0MH4XcKpd7a46GVEv9yx9zJ3A:1687076077207&q=cheese+cake&tbm=shop"
         }
     ]
 }
